@@ -7,6 +7,10 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class message {
+
+    public static void sentMessage() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
     
     // ================ MESSAGE CLASS =================
     
